@@ -12,4 +12,5 @@ If you would like to contribute to the development of World Clock, please contac
 
 ## License
 
-LICENSE.md
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
