@@ -9,3 +9,7 @@ To use the application, simply run the executable file. The application will dis
 ## Contributing
 
 If you would like to contribute to the development of World Clock, please contact the developer, Helblze-009 (Harsadhani Chatterjee) on Github.
+
+## License
+
+LICENSE.md
